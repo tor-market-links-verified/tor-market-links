@@ -81,4 +81,6 @@ Tor market links offer a path to anonymous transactions. By employing these guid
 
 Please contribute and add stars to this repo.
 
-Update:  04.08.2025
+
+
+Update:  13 August 2025 Fixed broken links TOR
